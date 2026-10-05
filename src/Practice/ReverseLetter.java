@@ -2,7 +2,7 @@ package Practice;
 
 public class ReverseLetter {
     static void main() {
-        
+
     } {
         String input = "J@va the be$t!123";
 
