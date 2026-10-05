@@ -1,7 +1,9 @@
 package Practice;
 
 public class ReverseLetter {
-    public static void main(String[] args) {
+    static void main() {
+        
+    } {
         String input = "J@va the be$t!123";
 
         char[] chars = input.toCharArray();
