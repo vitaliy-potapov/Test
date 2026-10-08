@@ -1,9 +1,8 @@
-package Practice;
+package Practice.reverse;
 
 public class ReverseLetter {
-    public static void main(String[] args) {
-        String input = "J@va the be$t!123";
 
+    public static String reverse(String input) {
         char[] chars = input.toCharArray();
 
         int left = 0;
@@ -24,6 +23,6 @@ public class ReverseLetter {
             }
         }
 
-        System.out.println(new String(chars));
+        return new String(chars);
     }
 }
