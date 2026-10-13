@@ -1,4 +1,4 @@
-package Practice.io.util;
+package io.practice.util;
 
 public class ReverseLetter {
 
