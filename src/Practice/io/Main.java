@@ -1,6 +1,6 @@
-package Practice;
+package Practice.io;
 
-import Practice.reverse.ReverseLetter;
+import Practice.io.util.ReverseLetter;
 
 public class Main {
     public static void main(String[] args) {
